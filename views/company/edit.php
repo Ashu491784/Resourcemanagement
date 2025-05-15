@@ -88,9 +88,7 @@
                </div>
                
                 <div class="d-grid">
-                    <button type="submit" class="btn btn-dark ">
-                        Edit Company
-                    </button>
+                    <button type="submit" class="btn btn-dark "> Edit Company </button>
                     <a href="<?php BASIC_PATH ?>/company" class="btn btn-secondory">Cancle</a>
                 </div>
             </form>

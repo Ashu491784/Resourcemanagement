@@ -80,7 +80,7 @@
                     <?php endforeach; ?>
                 </select>
             </div>
-            <button type="submit" class="btn btn-primary">Save Category</button>
+            <button type="submit" class="btn btn-primary">Save employee</button>
             <a href="/employees" class="btn btn-danger">Cansel</a>
         </form>
     </div>
